@@ -8,7 +8,10 @@ They're not particularly accurate and uploading to LRCLIB is too intimidating fo
 ## Showcase:
 
 LRC, as seen in [Audion](https://www.audionplayer.com/)
+
 https://youtu.be/hAJgcJSOMpc
 
+
 TTML, as seen in [Namida](https://github.com/namidaco/namida):
+
 https://youtube.com/shorts/iQ6cKdpZM6E
