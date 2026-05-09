@@ -14,4 +14,4 @@ https://youtu.be/hAJgcJSOMpc
 
 TTML, as seen in [Namida](https://github.com/namidaco/namida):
 
-https://youtube.com/shorts/iQ6cKdpZM6E
+https://www.youtube.com/watch?v=iQ6cKdpZM6E
