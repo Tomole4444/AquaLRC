@@ -7,7 +7,7 @@ They're not particularly accurate and uploading to LRCLIB is too intimidating fo
 
 ## Showcase:
 
-LRC, as seen in [Audion](https://www.audionplayer.com/)
+LRC, as seen in [Audion](https://www.audionplayer.com/):
 
 https://youtu.be/hAJgcJSOMpc
 
