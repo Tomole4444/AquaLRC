@@ -7,4 +7,4 @@ They're not particularly accurate and uploading to LRCLIB is too intimidating fo
 
 ## Showcase:
 
-[[[▶ TTML:](./TTMLexample.mp4)](https://github.com/Tomole4444/AquaLRC/blob/c02b0814761a959bca17d33c90b11795ccc42ddb/TTMLexample.mp4)](https://github.com/Tomole4444/AquaLRC/blob/c02b0814761a959bca17d33c90b11795ccc42ddb/TTMLexample.mp4)
+https://github.com/Tomole4444/AquaLRC/blob/c02b0814761a959bca17d33c90b11795ccc42ddb/TTMLexample.mp4
