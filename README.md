@@ -7,4 +7,8 @@ They're not particularly accurate and uploading to LRCLIB is too intimidating fo
 
 ## Showcase:
 
-https://github.com/Tomole4444/AquaLRC/blob/c02b0814761a959bca17d33c90b11795ccc42ddb/TTMLexample.mp4
+LRC, as seen in [Audion](https://www.audionplayer.com/)
+https://youtu.be/hAJgcJSOMpc
+
+TTML, as seen in [Namida](https://github.com/namidaco/namida):
+https://youtube.com/shorts/iQ6cKdpZM6E
