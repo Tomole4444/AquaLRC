@@ -1,4 +1,4 @@
-# Things I might sync:
+# Things I might sync
 
 ## Sync:
 - ROMAloid
