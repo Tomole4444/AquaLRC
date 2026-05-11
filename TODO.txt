@@ -1,8 +1,8 @@
 # Things I might sync:
 
 Sync:
-- nelward five (ttml or lrc)
-- The Vanished People - Lonely Christmas
+- nelward five (ttml)
+- ROMAloid
 
 Needs Transcribing:
 - shane mesa - Meet You
