@@ -1,9 +1,8 @@
 # Things I might sync:
 
-Sync:
-- nelward five (ttml)
+## Sync:
 - ROMAloid
 
-Needs Transcribing:
+## Needs Transcribing:
 - shane mesa - Meet You
 - Donuts Verbrennen mit Gabriel
