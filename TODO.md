@@ -2,6 +2,7 @@
 
 ## Sync:
 - ROMAloid
+- Stone Bogus
 
 ## Needs Transcribing:
 - shane mesa - Meet You

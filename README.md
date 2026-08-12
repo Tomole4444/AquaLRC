@@ -1,9 +1,9 @@
 # AquaLRC
-I use this repo to upload .lrc files, for lyrics I have synchronized.
+I use this repo to upload my synced ".lrc" files and ".eLRC" files, which are of the A2 extension (Enhanced LRC). 
 
 I use [Chronograph](https://github.com/Dzheremi2/Chronograph) by Dzheremi2 usually.
 
-They're not particularly accurate and uploading to LRCLIB is too intimidating for me.
+My computer has 30-100ms audio delay, so the files are not perfectly accurate.
 
 ## Showcase:
 
@@ -12,10 +12,12 @@ LRC, as seen in [Audion](https://www.audionplayer.com/):
 https://youtu.be/hAJgcJSOMpc
 
 
-TTML, as seen in [Namida](https://github.com/namidaco/namida):
+eLRC, as seen in [Namida](https://github.com/namidaco/namida):
 
-https://www.youtube.com/watch?v=iQ6cKdpZM6E
+https://www.youtube.com/watch?v=EGa6XNeqEfw
 
+Keep in mind, that eLRC support is somewhat rare. These files are not compatible with the XML-based, "TTML" or ".wLRC".
+Therefore, these files only mark, when a word starts, and not, when it ends. Some of them might have distinctions between two vocalists.
 
 
 (feel free to ask for a song I can sync)
