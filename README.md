@@ -2,8 +2,10 @@
 I use this repo to upload my synced ".lrc" files and ".eLRC" files, which are of the A2 extension (Enhanced LRC). 
 
 I use [Chronograph](https://github.com/Dzheremi2/Chronograph) by Dzheremi2 usually.
+I recently also started using [Namida](https://github.com/namidaco/namida).
 
 My computer has 30-100ms audio delay, so the files are not perfectly accurate.
+The ones made with Namida on my phone have significantly less delay.
 
 ## Showcase:
 
