@@ -1,11 +1,16 @@
 # AquaLRC
-I use this repo to upload my synced ".lrc" files and ".eLRC" files, which are of the A2 extension (Enhanced LRC). 
+I use this repo to upload my synced lyrics files. You can find the regualar ".lrc" and ".eLRC" (A2 extension, Enhanced LRC) and Apple .TTML.
 
-I use [Chronograph](https://github.com/Dzheremi2/Chronograph) by Dzheremi2 usually.
-I recently also started using [Namida](https://github.com/namidaco/namida).
 
-My computer has 30-100ms audio delay, so the files are not perfectly accurate.
+## Tools, I use:
+
+[Chronograph](https://github.com/Dzheremi2/Chronograph) by Dzheremi2.
+[Namida](https://github.com/namidaco/namida).
+[Lokal TTML](https://github.com/sipbuu/lokal-ttml).
+
+My computer has 60-120ms audio delay, so the files are not very accurate.
 The ones made with Namida on my phone have significantly less delay.
+
 
 ## Showcase:
 
@@ -18,8 +23,5 @@ eLRC, as seen in [Namida](https://github.com/namidaco/namida):
 
 https://www.youtube.com/watch?v=EGa6XNeqEfw
 
-Keep in mind, that eLRC support is somewhat rare. These files are not compatible with the XML-based, "TTML" or ".wLRC".
-Therefore, these files only mark, when a word starts, and not, when it ends. Some of them might have distinctions between two vocalists.
-
-
+I test all files in Namida beforehand. Most applications can still read them as .lrc but especially .elrc support is rare.
 (feel free to ask for a song I can sync)
